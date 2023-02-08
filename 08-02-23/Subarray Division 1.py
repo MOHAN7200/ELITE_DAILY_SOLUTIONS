@@ -1,6 +1,7 @@
 #Subarray Division 1
 
 
+
 def birthday(s, d, m):
     count=0
     if(len(s)==1 and s[0]==d):
